@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/64548160/162638888-87e22cae-3ace-401c-92ab-6cf0087c0cde.jpg" alt="dev_object" align="right" height="300">
 
 <!--Introduction -->
-I'm Kevin Hierro! I'm a **Software Crafter**. I'm passionate about crafstmanship, creating software:computer: and make katas.
+I'm Kevin Hierro! I'm a **Software Crafter**. I'm passionate about crafstmanship, creating software:computer: and making katas.
 <br>
 
 ```python
