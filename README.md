@@ -13,7 +13,7 @@ kevin_hierro = {
     "technologies": ["Python", "Kotlin", "Java", "Javascript"],
     "tools": ["Pycharm", "Vscode", "Docker"],
     "passions": ["XP", "BDD", "TDD"]
-    }
+}
 ```
 
 <!-- Your badges -->
