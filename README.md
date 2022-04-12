@@ -9,7 +9,6 @@ I'm Kevin Hierro! I'm a **Software Crafter**. I'm passionate about crafstmanship
 
 ```python
 kevin_hierro = {
-    "pronouns": "he" or "him",
     "technologies": ["Python", "Kotlin", "Java", "Javascript"],
     "tools": ["Pycharm", "Vscode", "Docker"],
     "passions": ["XP", "BDD", "TDD"]
