@@ -27,4 +27,5 @@ kevin_hierro = {
 ### 🌱 Challenges that I’m currently challenging myself:
 I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfremium13&show_icons=true&theme=react)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfremium13&theme=react&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfremium13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
