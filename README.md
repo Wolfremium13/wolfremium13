@@ -1,8 +1,6 @@
 <!-- Greeting -->
 # Hey there! I'm Wolfremium :wave::smiley:
 
-<img src="https://user-images.githubusercontent.com/64548160/162638888-87e22cae-3ace-401c-92ab-6cf0087c0cde.jpg" alt="dev_object" align="right" height="300">
-
 <!--Introduction -->
 Hello! I'm Kevin Hierro, a dedicated Agile Software Crafter at Lean Mind, based in Santa Cruz de Tenerife, Canarias, España. My journey in the tech world has always been driven by a strong desire to learn, overcome challenges, and help others along the way. I am particularly motivated to create software solutions that enable individuals to be less dependent on technology, advocating for more open, free, and quality software​​.
 
