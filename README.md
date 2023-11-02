@@ -8,9 +8,6 @@ My expertise includes a wide range of agile methodologies such as Behavior Drive
 
 Feel free to explore my repositories, contribute or drop me a message to discuss anything tech-related. Let's collaborate and create amazing software solutions together!
 
-<br>
-
-<!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-KevinHierro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-h-3950071bb/)
 [![Gmail](https://img.shields.io/badge/-Wolfremium-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wolfremiuminformatica@gmail.com)
 [![Blog](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Blog&style=style=flat&color=BC4E99)](https://www.wolfremium.dev/)
