@@ -6,7 +6,7 @@ Hello! I'm Kevin Hierro, a dedicated Agile Software Crafter at Lean Mind, based 
 
 My expertise includes a wide range of agile methodologies such as Behavior Driven Development (BDD), Test Driven Development (TDD), and Extreme Programming (XP). I also have a solid foundation in different types of testing, clean code practices, and refactoring. My technical skills span across various technologies including Java, Kotlin, Python, C#, Docker, and TypeScript.
 
-Feel free to explore my repositories, contribute or drop me a message to discuss anything tech-related. Let's collaborate and create amazing software solutions together!
+Feel free to explore my repositories, contribute or drop me a message to discuss anything tech-related. Let's collaborate and create amazing katas together!
 
 [![Linkedin](https://img.shields.io/badge/-KevinHierro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-h-3950071bb/)
 [![Gmail](https://img.shields.io/badge/-Wolfremium-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wolfremiuminformatica@gmail.com)
