@@ -28,7 +28,7 @@
 <!-- 🌊 Wavy divider (static SVG) -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wolfremium/Wolfremium/main/assets/wave-divider.svg" width="100%" />
+  <img src="banner_kakashi.png" width="100%" />
 </p>
 
 <!-- 🚀 Offer Cards (HTML+inline CSS) -->
