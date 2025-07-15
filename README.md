@@ -31,43 +31,6 @@
   <img src="banner_kakashi.png" width="100%" />
 </p>
 
-<!-- 🚀 Offer Cards (HTML+inline CSS) -->
-
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;">
-  <div style="flex:1 1 260px;padding:25px;border-radius:18px;background:linear-gradient(135deg,#3f6d4e 0%,#8bd450 100%);color:#ffffff;box-shadow:0 0 12px rgba(0,0,0,.25);">
-    <h2 style="margin:0 0 10px 0;">🌐 Web</h2>
-    <p style="margin:0;">Front‑ends accesibles y APIs robustas</p>
-    <p><strong>Stack:</strong> TypeScript · React · Spring Boot · Node.js</p>
-  </div>
-  <div style="flex:1 1 260px;padding:25px;border-radius:18px;background:linear-gradient(135deg,#965fd4 0%,#734f9a 100%);color:#ffffff;box-shadow:0 0 12px rgba(0,0,0,.25);">
-    <h2 style="margin:0 0 10px 0;">📊 Datos</h2>
-    <p style="margin:0;">Pipelines reproducibles y analítica</p>
-    <p><strong>Stack:</strong> Python · Spark · dbt · SQL</p>
-  </div>
-  <div style="flex:1 1 260px;padding:25px;border-radius:18px;background:linear-gradient(135deg,#1d1a2f 0%,#3f6d4e 100%);color:#ffffff;box-shadow:0 0 12px rgba(0,0,0,.25);">
-    <h2 style="margin:0 0 10px 0;">⚙️ DevOps</h2>
-    <p style="margin:0;">IaC, CI/CD & observabilidad</p>
-    <p><strong>Stack:</strong> Terraform · Azure · GitHub Actions</p>
-  </div>
-</div>
-
-<!-- 🏄‍♂️ Floating separator -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Wolfremium/Wolfremium/main/assets/floating-orbs.svg" width="60%" />
-</p>
-
-<!-- 🛠️ How I Work (neon frame) -->
-
-<div align="center" style="max-width:800px;margin:0 auto;padding:25px;border-radius:18px;background:#0e0b16;color:#ffffff;box-shadow:0 0 20px #965fd4;">
-  <h2 style="margin-top:0;color:#8bd450;">🛠️ Cómo trabajo</h2>
-  <ul style="list-style:none;padding-left:0;font-size:1.1rem;">
-    <li>🚦 <strong>TDD & BDD</strong> desde el primer commit</li>
-    <li>♻️ Refactor continuo hasta que el código _brille_</li>
-    <li>🔍 Observabilidad y seguridad por defecto</li>
-  </ul>
-</div>
-
 <!-- 💫 Repo Pins (GitHub API cards) -->
 
 <p align="center">
