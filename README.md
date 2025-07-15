@@ -83,15 +83,10 @@
 
 <p align="center">
   <a href="mailto:wolfremiuminformatica@gmail.com">
-    <img src="https://img.shields.io/badge/email-kevin.hierro@hey.com-3f6d4e?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/wolfremiuminformatica@gmail.com-3f6d4e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kevin-h-3950071bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kevin_Hierro-965fd4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<!-- 🔚 Footer counter -->
-
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Wolfremium13&style=flat-square&color=1d1a2f" />
-</p>
