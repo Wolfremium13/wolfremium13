@@ -71,10 +71,10 @@
 <!-- 💫 Repo Pins (GitHub API cards) -->
 
 <p align="center">
-  <a href="https://github.com/Wolfremium?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Wolfremium13?tab=repositories&sort=stargazers">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfremium&repo=my-cool-project&theme=default&border_color=734f9a" />
   </a>
-  <a href="https://github.com/Wolfremium?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Wolfremium13?tab=repositories&sort=stargazers">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wolfremium&repo=my-second-project&theme=default&border_color=734f9a" />
   </a>
 </p>
@@ -82,7 +82,7 @@
 <!-- ✉️ Contact & Badges -->
 
 <p align="center">
-  <a href="mailto:kevin.hierro@hey.com">
+  <a href="mailto:wolfremiuminformatica@gmail.com">
     <img src="https://img.shields.io/badge/email-kevin.hierro@hey.com-3f6d4e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kevin-h-3950071bb/" target="_blank">
@@ -93,5 +93,5 @@
 <!-- 🔚 Footer counter -->
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Wolfremium&style=flat-square&color=1d1a2f" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Wolfremium13&style=flat-square&color=1d1a2f" />
 </p>
