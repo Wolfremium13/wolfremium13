@@ -38,18 +38,7 @@ time-to-market.
 | **Data & Databases**       | ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=flat-square&logo=snowflake&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-%23017CEE.svg?style=flat-square&logo=apache-airflow&logoColor=white) Soda Elasticsearch ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)                                                                                                                                                                    |
 | **Tools & CI/CD**          | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) GitHub Actions, GitLab CI/CD, Software Testing, Git                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | **Methodologies**          | BDD (Behavior-Driven Development), TDD (Test-Driven Development), XP (Extreme Programming), Exploratory Testing, Design Thinking                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Soft Skills**            | Mentorship, Problem Solving, Team Collaboration, Adaptability, Continuous Learning, Effective Communication                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-
----
-
-## 🎓 Education
-
-- 🎒 **Higher Vocational Training in Web Application Development** _CIFP Cesar
-  Manrique | 2019 - 2021_
-- 💻 **Intermediate Vocational Training in Network Computer Systems
-  Administration** _IES Santa Ana | 2016 - 2019_
-
----
+| **Soft Skills**            | Mentorship, Problem Solving, Team Collaboration, Adaptability, Continuous Learning, Effective Communication                                                                                                                                                                                                                                                                           
 
 <div align="center">
 <h3>Let's build something awesome together!</h3>
