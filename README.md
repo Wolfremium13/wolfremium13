@@ -4,7 +4,7 @@
 
 ### Full Stack Engineer
 
-**Specialized in Clean Code, TDD/BDD, and robust Developer Systems.**
+**Specialized in Clean Code, TDD/BDD, and robust scalable systems.**
 
 [![Website](https://img.shields.io/badge/Website-wolfremium.dev-7f52ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wolfremium.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Hierro-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-hierro/)
